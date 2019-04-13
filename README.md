@@ -1,4 +1,4 @@
-# Lightweight Feature Fusion Network for Single Image Super-Resolution [[arXiv]](https://arxiv.org/abs/1902.05694) [[IEEE Signal Processing Letters ( Volume: 26 , Issue: 4 , April 2019 )]] (https://ieeexplore.ieee.org/abstract/document/8600373)
+# Lightweight Feature Fusion Network for Single Image Super-Resolution [[arXiv]](https://arxiv.org/abs/1902.05694) [[IEEE Signal Processing Letters]](https://ieeexplore.ieee.org/abstract/document/8600373)
 -------------
 This repository is Tensorflow code for our proposed LFFN.
 
