@@ -1,0 +1,12 @@
+
+LFFN-------------------------------------
+2019/4/13 14:0:28 [LFFN_x2_B4M4_depth_div2k]
+The FSR model Complexity:164,448 Receptive Fields:0
+
+=== [Set5] MSE:13.349501, PSNR:37.665193 , SSIM:0.962338 , Time:0.327799===
+
+LFFN-------------------------------------
+2019/4/13 14:25:1 [LFFN_x2_B4M4_depth_div2k]
+The FSR model Complexity:164,448 Receptive Fields:0
+
+=== [Set5] MSE:13.349498, PSNR:37.665193 , SSIM:0.962338 , Time:0.437860===
