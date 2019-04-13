@@ -5,6 +5,10 @@ This repository is Tensorflow code for our proposed LFFN.
 
 The code is based on [DCSCN](https://github.com/jiny2001/dcscn-super-resolution) and [BasicSR](https://github.com/xinntao/BasicSR), and tested on Ubuntu 16.04 environment (Python 3.6, Tensorflow 1.4, CUDA 8.0) with 1080Ti GPU.
 
+![](figs/Framework.png)
+
+The architecture of our proposed lightweight feature fusion network (LFFN). The details about our proposed LFFN can be found in [our main paper](https://ieeexplore.ieee.org/abstract/document/8600373).
+
 If you find our work useful in your research or publications, please consider citing:
 
 ```latex
