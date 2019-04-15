@@ -1,12 +1,5 @@
-# -*- coding: utf-8 -*-
-# @Author: Marte
-# @Date:   2017-12-18 10:08:04
-# @Last Modified by:   Marte
-# @Last Modified time: 2017-12-18 10:08:12
 '''
-Created on 21 nov. 2011
-@author: Antoine Vacavant, ISIT lab, antoine.vacavant@iut.u-clermont1.fr, http://isit.u-clermont1.fr/~anvacava
-Modified by Christopher Godfrey, on 17 July 2012 (lines 32-34)
+Paper: "Lightweight Feature Fusion Network for Single Image Super-Resolution"
 '''
 
 import numpy
