@@ -1,7 +1,5 @@
 """
-Paper: "Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network"
-Ver: 2
-
+Paper: "Lightweight Feature Fusion Network for Single Image Super-Resolution"
 functions for sharing arguments and their default values
 """
 
