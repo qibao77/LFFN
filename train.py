@@ -1,7 +1,7 @@
 """
 Paper: "Lightweight Feature Fusion Network for Single Image Super-Resolution"
 Author: Wei Wang
-Github:
+Github: https://github.com/qibao77/LFFN-master.git
 
 training functions.
 Testing Environment: Python 3.6.1, tensorflow >= 1.4.0
