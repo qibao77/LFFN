@@ -1,14 +1,5 @@
 """
-Paper: "Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network"
-Author: Jin Yamanaka
-Github: https://github.com/jiny2001/dcscn-image-super-resolution
-
-Create Augmented training images
-
-Put your images under data/[your dataset name]/ and specify [your dataset name] for --dataset.
-
---augment_level 2-8: will generate flipped / rotated images
-
+Paper: "Lightweight Feature Fusion Network for Single Image Super-Resolution"
 """
 import numpy as np
 import os
