@@ -1,9 +1,9 @@
 # Lightweight Feature Fusion Network for Single Image Super-Resolution
 [[arXiv]](https://arxiv.org/abs/1902.05694) [[IEEE Signal Processing Letters]](https://ieeexplore.ieee.org/abstract/document/8600373)
 -------------
-This repository is Tensorflow code for our proposed LFFN.(However, the data loading part is based on pytorch. And our platform uses pytorch 0.4.0.)
+This repository is Tensorflow code for our proposed LFFN.(However, the data loading part is based on pytorch.)
 
-The code is based on [DCSCN](https://github.com/jiny2001/dcscn-super-resolution) and [BasicSR](https://github.com/xinntao/BasicSR), and tested on Ubuntu 16.04 environment (Python 3.6, Tensorflow 1.4, CUDA 8.0) with 1080Ti GPU.
+The code is based on [DCSCN](https://github.com/jiny2001/dcscn-super-resolution) and [BasicSR](https://github.com/xinntao/BasicSR), and tested on Ubuntu 16.04 environment (Python 3.6, Tensorflow 1.4, Pytorch 0.4.0., CUDA 8.0) with 1080Ti GPU.
 
 ![](figs/Framework.png)
 
